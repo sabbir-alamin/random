@@ -1,3 +1,5 @@
 
 I'm new in github and I'm trying out different things.
 
+Well now I cloned a remote repo in my computer.
+
