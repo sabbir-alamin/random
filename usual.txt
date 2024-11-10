@@ -5,3 +5,4 @@ Well, now I cloned a remote repo on my computer.
 
 I will be using git pull now.
 
+I'm learning how to add new branches and merge branches.
